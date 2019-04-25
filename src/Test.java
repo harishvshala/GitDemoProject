@@ -7,6 +7,7 @@ public class Test {
          System.out.println("eat something");
 		else {
 			System.out.println("do work ");
+			  
 		}
 
 	}
